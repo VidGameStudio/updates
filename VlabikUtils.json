@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "text": "1.0.1",
+  "version": 2,
+  "text": "1.1.1",
   "url": "https://github.com/VidGameStudio/updates/raw/refs/heads/main/files/VlabikUtils.exe",
-  "changelog": "Что нового:\n- Добавлен новый режим автокликера\n- Добавлено сохранение всего чего можно\n- Теперь есть страница гайда приложения"
+  "changelog": "Что нового:\n- Добавлена в авто кликер запись ваших действий"
 }
