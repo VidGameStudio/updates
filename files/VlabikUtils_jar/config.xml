@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\79219\IdeaProjects\VlabikUtils\out\artifacts\VlabikUtils_jar\VlabikUtils.jar</jar>
+  <outfile>C:\Users\79219\IdeaProjects\VlabikUtils\out\artifacts\VlabikUtils_jar\VlabikUtils.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\79219\IdeaProjects\VlabikUtils\src\main\resources\favicon.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>21</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <messages>
+    <startupErr>Ошибка при запуске</startupErr>
+    <jreNotFoundErr>Вам нужна Java</jreNotFoundErr>
+    <jreVersionErr>Не та версия Java (Нужна 21)</jreVersionErr>
+    <launcherErr>Ошибка при запуске</launcherErr>
+    <instanceAlreadyExistsMsg></instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
