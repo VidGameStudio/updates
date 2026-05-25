@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "text": "1.1.3",
+  "version": 5,
+  "text": "1.1.4",
   "url": "https://github.com/VidGameStudio/updates/raw/refs/heads/main/files/VlabikUtils.exe",
-  "changelog": "Что нового:\n- Исправлено часть капризов гуда\n"
+  "changelog": "Что нового:\n- Исправлено часть капризов гуда\n - Исправлено то что ИИ стёр\n"
 }
