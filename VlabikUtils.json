@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "text": "1.1.4",
+  "version": 6,
+  "text": "1.1.5",
   "url": "https://github.com/VidGameStudio/updates/raw/refs/heads/main/files/VlabikUtils.exe",
-  "changelog": "Что нового:\n- Исправлено часть капризов гуда\n - Исправлено то что ИИ стёр\n"
+  "changelog": "Что нового:\n- Теперь можно поставить на запуск любой файл\n- исправлено пару проблем\n"
 }
