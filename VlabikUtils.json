@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "text": "1.1.5",
+  "version": 7,
+  "text": "1.1.6",
   "url": "https://github.com/VidGameStudio/updates/raw/refs/heads/main/files/VlabikUtils.exe",
-  "changelog": "Что нового:\n- Теперь можно поставить на запуск любой файл\n- исправлено пару проблем\n"
+  "changelog": "Что нового:\n- Теперь .bat файлы должны запускаться нормльно\n"
 }
